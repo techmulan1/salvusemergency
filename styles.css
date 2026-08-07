@@ -1153,6 +1153,12 @@ section.platform {
   text-transform: uppercase;
   font-family: var(--font-mono);
   font-size: 11px;
+
+  a{
+    color: rgba(250, 246, 238, 0.5);
+    text-decoration: none;
+    transition: color 0.18s;
+  }
 }
 
 /* ==========================================================================
